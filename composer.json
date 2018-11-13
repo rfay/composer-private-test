@@ -1,0 +1,14 @@
+{ 
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "git@github.com:drud/test-private-composer-repo"
+    }
+],
+
+
+"require": {
+    "php": ">=5.4.3",
+    "drud/test-private-composer-repo": "dev-master"
+}
+}
